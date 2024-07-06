@@ -20,7 +20,8 @@ We train and test our models under `python=3.10`, `pytorch=2.1.1`, `cuda=11.8`.
 ```shell
 # Create a virtual environment and activate it.
 pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
-pip install -U openmim && mim install -e .
+pip install -U openmim
+mim install -e .
 ```
 ### Data preparation
 

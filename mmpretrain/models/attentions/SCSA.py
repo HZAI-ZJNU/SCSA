@@ -1,11 +1,9 @@
 import typing as t
+
 import torch
 import torch.nn as nn
 from functorch.einops import rearrange
-from mmcv.cnn import DepthwiseSeparableConvModule, ConvModule
 from mmengine.model import BaseModule
-from torch.functional import F
-
 __all__ = ['SCSA']
 
 

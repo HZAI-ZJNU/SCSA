@@ -1,5 +1,5 @@
 # SCSA
-This repo is the official of implementation of "[SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention](https://arxiv.org/pdf/2407.05128v1)".
+This repo is the official of implementation of "[SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention](https://arxiv.org/pdf/2407.05128)".
 
 ## Introduction
 
@@ -74,7 +74,7 @@ If you find this repository useful, please use the following BibTeX entry for ci
 @article{si2024SCSA,
   title={SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention},
   author={Si, Yunzhong and Xu, Huiying and Zhu, Xinzhong and Zhang, Wenhao and Dong, Yao and Chen, Yuxing and Li, Hongbo},
-  journal={arXiv preprint arXiv:2407.05128v1},
+  journal={arXiv preprint arXiv:2407.05128},
   year={2024}
 }
 ```

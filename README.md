@@ -71,11 +71,13 @@ The code in this repository is developed based on the [MMPretrain](https://githu
 ## Cite SCSA
 If you find this repository useful, please use the following BibTeX entry for citation.
 ```latex
-@article{si2024SCSA,
-  title={SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention},
+@article{si2025scsa,
+  title={SCSA: Exploring the synergistic effects between spatial and channel attention},
   author={Si, Yunzhong and Xu, Huiying and Zhu, Xinzhong and Zhang, Wenhao and Dong, Yao and Chen, Yuxing and Li, Hongbo},
-  journal={arXiv preprint arXiv:2407.05128},
-  year={2024}
+  journal={Neurocomputing},
+  pages={129866},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
